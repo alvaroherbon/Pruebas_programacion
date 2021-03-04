@@ -8,6 +8,7 @@ public class codificado_romano {
     }
 
     public String codificar(String entrada, int valor) {
+        return null;
 
     }
 }
